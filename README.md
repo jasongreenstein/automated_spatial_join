@@ -6,4 +6,6 @@ Requirements:
 Spatial Analysis package for ArcGIS Pro. 
 
 Installation:
+Download the Batch Spatial Join.pyt file.
+In a ArcGIS Pro Project, navigate to the Catalog window, right click Toolboxes and Add Toolbox, navigate to and select the Batch Spatial Join.pyt file.
 
